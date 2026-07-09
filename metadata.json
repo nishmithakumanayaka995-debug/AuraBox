@@ -1,0 +1,6 @@
+{
+  "name": "AuraBox",
+  "description": "A premium futuristic dashboard featuring an interactive 3D isometric glowing glass micro-world showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
